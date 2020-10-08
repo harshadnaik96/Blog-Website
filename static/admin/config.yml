@@ -2,8 +2,8 @@
 # Git Gateway is an open-source API that acts as a proxy between authenticated users of your site and your site repository
 es (15 sloc) 496 Bytes
 backend:
-  name: git-gateway
-  branch: main
+name: git-gateway
+branch: main
 
 media_folder: "images/uploads"
 
