@@ -1,8 +1,8 @@
 # specifies your backend protocol and your publication branch (which is branch: master).
 # Git Gateway is an open-source API that acts as a proxy between authenticated users of your site and your site repository
 backend:
-name: git-gateway
-branch: main
+  name: git-gateway
+  branch: main
 
 media_folder: "images/uploads"
 
